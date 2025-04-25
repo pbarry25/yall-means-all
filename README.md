@@ -32,6 +32,7 @@ And PR's/feedback encouraged! :)
 | [Costco](https://www.costco.com/) | [Link](https://www.costco.com/careers.html) | [Link](https://cta.cadienttalent.com/index.jsp?locale=en_US&APPLICATIONNAME=CostcoNonReqExt) | [Link](https://materials.proxyvote.com/Approved/22160K/20241115/NPS_591967/INDEX.HTML?page=36) |
 | [Cummings](https://www.cummins.com/) | [Link](https://www.cummins.com/careers/paths) | [Link](https://cummins.jobs/) | [Link](https://www.cummins.com/careers/diversity-equity-inclusion) |
 | [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | [Link](https://www.ebayinc.com/company/diversity-inclusion-belonging/) |
+| [Marriott](https://www.marriott.com/) | [Link](https://careers.marriott.com/) | [Link](https://careers.marriott.com/jobs) | [Link](https://fortune.com/article/marriott-ceo-best-companies-work-for-interview/) |
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) |[Link](https://www.massmutual.com/sustainability/diversity-equity-and-inclusion) |
 | [Nintendo](https://www.nintendo.com) | [Link](https://careers.nintendo.com/) | [Link](https://careers.nintendo.com/job-openings) | [Link](https://careers.nintendo.com/diversity-equity-and-inclusion/) |
 | [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | [Link](https://samsara.com/company/belonging) |
