@@ -34,5 +34,6 @@ And PR's/feedback encouraged! :)
 | [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | [Link](https://www.ebayinc.com/company/diversity-inclusion-belonging/) |
 | [Marriott](https://www.marriott.com/) | [Link](https://careers.marriott.com/) | [Link](https://careers.marriott.com/jobs) | [Link](https://fortune.com/article/marriott-ceo-best-companies-work-for-interview/) |
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) |[Link](https://www.massmutual.com/sustainability/diversity-equity-and-inclusion) |
+| [New Balance](https://www.newbalance.com/) | [Link](https://jobs.newbalance.com/global/en) | [Link](https://jobs.newbalance.com/global/en/search-results) | [Link](https://jobs.newbalance.com/global/en/dei) |
 | [Nintendo](https://www.nintendo.com) | [Link](https://careers.nintendo.com/) | [Link](https://careers.nintendo.com/job-openings) | [Link](https://careers.nintendo.com/diversity-equity-and-inclusion/) |
 | [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | [Link](https://samsara.com/company/belonging) |
