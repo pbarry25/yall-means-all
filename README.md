@@ -28,6 +28,7 @@ And PR's/feedback encouraged! :)
 | Company | Careers landing page | Jobs listings link | Resource/Info |
 |---|---|---|---|
 | [Atlassian](https://www.atlassian.com/) | [Link](https://www.atlassian.com/company/careers) | [Link](https://www.atlassian.com/company/careers/all-jobs) | [Link](https://www.atlassian.com/company/careers/diversity) |
+| [Brooks](https://www.brooksrunning.com) | [Link](https://www.brooksrunning.com/en_us/meet-brooks/careers/) | [Link](https://jobs.lever.co/brooksrunning) | [Link](https://www.brooksrunning.com/en_us/meet-brooks/running-responsibly/dei/) |
 | [Check Point](https://www.checkpoint.com/) | [Link](https://www.checkpoint.com/careers/) | [Link](https://careers.checkpoint.com/index.php?module=cpcareers&a=search&q=) | [Link](https://www.checkpoint.com/careers/#dei) |
 | [Costco](https://www.costco.com/) | [Link](https://www.costco.com/careers.html) | [Link](https://cta.cadienttalent.com/index.jsp?locale=en_US&APPLICATIONNAME=CostcoNonReqExt) | [Link](https://materials.proxyvote.com/Approved/22160K/20241115/NPS_591967/INDEX.HTML?page=36) |
 | [Cummings](https://www.cummins.com/) | [Link](https://www.cummins.com/careers/paths) | [Link](https://cummins.jobs/) | [Link](https://www.cummins.com/careers/diversity-equity-inclusion) |
