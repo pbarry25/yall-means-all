@@ -27,11 +27,13 @@ And PR's/feedback encouraged! :)
 
 | Company | Careers landing page | Jobs listings link | Resource/Info |
 |---|---|---|---|
+| [Apple](https://apple.com) | [Link](https://www.apple.com/careers) | [Link](https://jobs.apple.com/en-us/search) | [Link](https://www.apple.com/diversity/) |
 | [Atlassian](https://www.atlassian.com/) | [Link](https://www.atlassian.com/company/careers) | [Link](https://www.atlassian.com/company/careers/all-jobs) | [Link](https://www.atlassian.com/company/careers/diversity) |
 | [Brooks](https://www.brooksrunning.com) | [Link](https://www.brooksrunning.com/en_us/meet-brooks/careers/) | [Link](https://jobs.lever.co/brooksrunning) | [Link](https://www.brooksrunning.com/en_us/meet-brooks/running-responsibly/dei/) |
 | [Check Point](https://www.checkpoint.com/) | [Link](https://www.checkpoint.com/careers/) | [Link](https://careers.checkpoint.com/index.php?module=cpcareers&a=search&q=) | [Link](https://www.checkpoint.com/careers/#dei) |
 | [Costco](https://www.costco.com/) | [Link](https://www.costco.com/careers.html) | [Link](https://cta.cadienttalent.com/index.jsp?locale=en_US&APPLICATIONNAME=CostcoNonReqExt) | [Link](https://materials.proxyvote.com/Approved/22160K/20241115/NPS_591967/INDEX.HTML?page=36) |
 | [Cummings](https://www.cummins.com/) | [Link](https://www.cummins.com/careers/paths) | [Link](https://cummins.jobs/) | [Link](https://www.cummins.com/careers/diversity-equity-inclusion) |
+| [Deepwatch](https://www.deepwatch.com) | [Link](https://www.deepwatch.com/careers/) | [Link](https://www.deepwatch.com/jobs/) | [Link](https://www.deepwatch.com/diversity-equity-and-inclusion/) |
 | [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | [Link](https://www.ebayinc.com/company/diversity-inclusion-belonging/) |
 | [Marriott](https://www.marriott.com/) | [Link](https://careers.marriott.com/) | [Link](https://careers.marriott.com/jobs) | [Link](https://fortune.com/article/marriott-ceo-best-companies-work-for-interview/) |
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) |[Link](https://www.massmutual.com/sustainability/diversity-equity-and-inclusion) |
