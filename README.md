@@ -29,6 +29,7 @@ And PR's/feedback encouraged! :)
 |---|---|---|---|
 | [Apple](https://apple.com) | [Link](https://www.apple.com/careers) | [Link](https://jobs.apple.com/en-us/search) | [Link](https://www.apple.com/diversity/) |
 | [Atlassian](https://www.atlassian.com/) | [Link](https://www.atlassian.com/company/careers) | [Link](https://www.atlassian.com/company/careers/all-jobs) | [Link](https://www.atlassian.com/company/careers/diversity) |
+| [Ben &amp; Jerry's](https://www.benjerry.com/) | [Link](https://www.benjerry.com/about-us/jobs) | [Link](https://nasupplychainunilever.dejobs.org/jobs/?q=Ben+%26+Jerry%27s) | [Link](https://www.benjerry.com/whats-new/2024/06/diversity-equity-inclusion) |
 | [Brooks](https://www.brooksrunning.com) | [Link](https://www.brooksrunning.com/en_us/meet-brooks/careers/) | [Link](https://jobs.lever.co/brooksrunning) | [Link](https://www.brooksrunning.com/en_us/meet-brooks/running-responsibly/dei/) |
 | [Check Point](https://www.checkpoint.com/) | [Link](https://www.checkpoint.com/careers/) | [Link](https://careers.checkpoint.com/index.php?module=cpcareers&a=search&q=) | [Link](https://www.checkpoint.com/careers/#dei) |
 | [Costco](https://www.costco.com/) | [Link](https://www.costco.com/careers.html) | [Link](https://cta.cadienttalent.com/index.jsp?locale=en_US&APPLICATIONNAME=CostcoNonReqExt) | [Link](https://materials.proxyvote.com/Approved/22160K/20241115/NPS_591967/INDEX.HTML?page=36) |
