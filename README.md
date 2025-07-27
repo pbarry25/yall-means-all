@@ -4,7 +4,7 @@ TL;DR: This is designed to be a lightweight capture of companies/organizations (
 
 Disclaimer: [I](https://github.com/pbarry25) am not directly affiliated with any of the companies listed here.
 
-This is simplly a curated list of companies who have active, funded initiatives.
+This is simply a curated list of companies who have active, funded initiatives.
 
 The target audience here includes (but is not limited to):
 
@@ -37,6 +37,7 @@ And PR's/feedback encouraged! :)
 | [Deepwatch](https://www.deepwatch.com) | [Link](https://www.deepwatch.com/careers/) | [Link](https://www.deepwatch.com/jobs/) | [Link](https://www.deepwatch.com/diversity-equity-and-inclusion/) |
 | [e.l.f. Beauty](https://www.elfbeauty.com/) | [Link](https://www.elfbeauty.com/work-with-us) | [Link](https://www.elfbeauty.com/work-with-us#careers-feed) | [Link](https://www.elfbeauty.com/changing-the-board-game) |
 | [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | [Link](https://www.ebayinc.com/company/diversity-inclusion-belonging/) |
+| [Ericsson](https://www.ericsson.com) | [Link](https://www.ericsson.com/en/careers) | [Link](https://jobs.ericsson.com/careers) | [Link](https://www.ericsson.com/en/about-us/diversity-and-inclusion) |
 | [Levi Strauss &amp; Co](https://www.levi.com) | [Link](https://www.levistrauss.com/work-with-us/) | [Link](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External) | [Link](https://www.levi.com/US/en_US/features/our-values) |
 | [Marriott](https://www.marriott.com/) | [Link](https://careers.marriott.com/) | [Link](https://careers.marriott.com/jobs) | [Link](https://fortune.com/article/marriott-ceo-best-companies-work-for-interview/) |
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) |[Link](https://www.massmutual.com/sustainability/diversity-equity-and-inclusion) |
@@ -44,4 +45,5 @@ And PR's/feedback encouraged! :)
 | [NFL](https://www.nfl.com) | [Link](https://www.nfl.com/careers/) | [Link](https://job-boards.greenhouse.io/nflcareers) | [Link](https://www.nfl.com/careers/diversity) |
 | [Nintendo](https://www.nintendo.com) | [Link](https://careers.nintendo.com/) | [Link](https://careers.nintendo.com/job-openings) | [Link](https://careers.nintendo.com/diversity-equity-and-inclusion/) |
 | [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | [Link](https://samsara.com/company/belonging) |
+| [Tomy](https://tomy.com) | [Link](https://us.tomy.com/careers/) | [Link](https://us.tomy.com/careers/) | [Link](https://us.tomy.com/dei/) |
 | [UBS](https://www.ubs.com/) | [Link](https://www.ubs.com/global/en/careers.html) | [Link](https://www.ubs.com/global/en/careers/search-jobs.html) | [Link](https://www.ubs.com/global/en/our-firm/our-culture/diversity-and-inclusion.html) |
