@@ -45,5 +45,7 @@ And PR's/feedback encouraged! :)
 | [NFL](https://www.nfl.com) | [Link](https://www.nfl.com/careers/) | [Link](https://job-boards.greenhouse.io/nflcareers) | [Link](https://www.nfl.com/careers/diversity) |
 | [Nintendo](https://www.nintendo.com) | [Link](https://careers.nintendo.com/) | [Link](https://careers.nintendo.com/job-openings) | [Link](https://careers.nintendo.com/diversity-equity-and-inclusion/) |
 | [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | [Link](https://samsara.com/company/belonging) |
+| [The Museum of Flight (Seattle)](https://www.museumofflight.org) | [Link](https://www.museumofflight.org/about/careers/) | [Link](https://recruiting2.ultipro.com/mus1007mmf/JobBoard/8cd093ad-daf1-47a2-bbd1-305c466377b6/?q=&o=postedDateDesc) | [Link](https://www.museumofflight.org/about/diversity-and-inclusion) |
 | [Tomy](https://tomy.com) | [Link](https://us.tomy.com/careers/) | [Link](https://us.tomy.com/careers/) | [Link](https://us.tomy.com/dei/) |
 | [UBS](https://www.ubs.com/) | [Link](https://www.ubs.com/global/en/careers.html) | [Link](https://www.ubs.com/global/en/careers/search-jobs.html) | [Link](https://www.ubs.com/global/en/our-firm/our-culture/diversity-and-inclusion.html) |
+| [USAA](https://www.usaa.com/) | [Link](https://www.usaajobs.com/) | [Link](https://www.usaajobs.com/search-jobs/) | [Link](https://www.usaajobs.com/belonging) |
