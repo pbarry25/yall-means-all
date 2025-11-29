@@ -37,8 +37,8 @@ And PR's/feedback encouraged! :)
 | [Deepwatch](https://www.deepwatch.com) | [Link](https://www.deepwatch.com/careers/) | [Link](https://www.deepwatch.com/jobs/) | [Link](https://www.deepwatch.com/diversity-equity-and-inclusion/) |
 | [e.l.f. Beauty](https://www.elfbeauty.com/) | [Link](https://www.elfbeauty.com/work-with-us) | [Link](https://www.elfbeauty.com/work-with-us#careers-feed) | [Link](https://www.elfbeauty.com/changing-the-board-game) |
 | [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | [Link](https://www.ebayinc.com/company/diversity-inclusion-belonging/) |
-| [Ericsson](https://www.ericsson.com) | [Link](https://www.ericsson.com/en/careers) | [Link](https://jobs.ericsson.com/careers) | [Link](https://www.ericsson.com/en/about-us/diversity-and-inclusion) |
 | [Equifax](https://www.equifax.com/) | [Link](https://www.equifax.com/about-equifax/culture-careers/) | [Link](https://careers.equifax.com/en/jobs) | [Link](https://www.equifax.com/about-equifax/culture-careers/inclusion-diversity/) |
+| [Ericsson](https://www.ericsson.com) | [Link](https://www.ericsson.com/en/careers) | [Link](https://jobs.ericsson.com/careers) | [Link](https://www.ericsson.com/en/about-us/diversity-and-inclusion) |
 | [Experian](https://www.experian.com/) | [Link](https://www.experian.com/careers/) | [Link](https://jobs.experian.com/jobs) | [Link](https://www.experian.com/diversity/index) |
 | [Lego](https://www.lego.com/) | [Link](https://www.lego.com/en-us/careers) | [Link](https://www.lego.com/en-us/careers/search) | [Link](https://www.lego.com/en-us/sustainability/diversity-and-inclusion) |
 | [Levi Strauss &amp; Co](https://www.levi.com) | [Link](https://www.levistrauss.com/work-with-us/) | [Link](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External) | [Link](https://www.levi.com/US/en_US/features/our-values) |
