@@ -40,6 +40,7 @@ And PR's/feedback encouraged! :)
 | [Equifax](https://www.equifax.com/) | [Link](https://www.equifax.com/about-equifax/culture-careers/) | [Link](https://careers.equifax.com/en/jobs) | [Link](https://www.equifax.com/about-equifax/culture-careers/inclusion-diversity/) |
 | [Ericsson](https://www.ericsson.com) | [Link](https://www.ericsson.com/en/careers) | [Link](https://jobs.ericsson.com/careers) | [Link](https://www.ericsson.com/en/about-us/diversity-and-inclusion) |
 | [Experian](https://www.experian.com/) | [Link](https://www.experian.com/careers/) | [Link](https://jobs.experian.com/jobs) | [Link](https://www.experian.com/diversity/index) |
+| [EY](https://www.ey.com/) | [Link](https://www.ey.com/en_us/careers) | [Link](https://careers.ey.com/search) | [Link](https://www.ey.com/en_us/careers/diversity-inclusiveness) |
 | [Lego](https://www.lego.com/) | [Link](https://www.lego.com/en-us/careers) | [Link](https://www.lego.com/en-us/careers/search) | [Link](https://www.lego.com/en-us/sustainability/diversity-and-inclusion) |
 | [Levi Strauss &amp; Co](https://www.levi.com) | [Link](https://www.levistrauss.com/work-with-us/) | [Link](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External) | [Link](https://www.levi.com/US/en_US/features/our-values) |
 | [Marriott](https://www.marriott.com/) | [Link](https://careers.marriott.com/) | [Link](https://careers.marriott.com/jobs) | [Link](https://fortune.com/article/marriott-ceo-best-companies-work-for-interview/) |
