@@ -45,9 +45,12 @@ And PR's/feedback encouraged! :)
 | [Levi Strauss &amp; Co](https://www.levi.com) | [Link](https://www.levistrauss.com/work-with-us/) | [Link](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External) | [Link](https://www.levi.com/US/en_US/features/our-values) |
 | [Marriott](https://www.marriott.com/) | [Link](https://careers.marriott.com/) | [Link](https://careers.marriott.com/jobs) | [Link](https://fortune.com/article/marriott-ceo-best-companies-work-for-interview/) |
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) |[Link](https://www.massmutual.com/sustainability/diversity-equity-and-inclusion) |
+| [Mattel](https://mattel.com/) | [Link](https://corporate.mattel.com/careers) | [Link](https://jobs.mattel.com/en/search-jobs) | [Link](https://corporate.mattel.com/global-inclusion) |
+| [N-able](https://www.n-able.com/) | [Link](https://careers.n-able.com/) | [Link](https://careers.n-able.com/jobs) | [Link](https://careers.n-able.com/diversity-equality-belonging) |
 | [New Balance](https://www.newbalance.com/) | [Link](https://jobs.newbalance.com/global/en) | [Link](https://jobs.newbalance.com/global/en/search-results) | [Link](https://jobs.newbalance.com/global/en/dei) |
 | [NFL](https://www.nfl.com) | [Link](https://www.nfl.com/careers/) | [Link](https://job-boards.greenhouse.io/nflcareers) | [Link](https://www.nfl.com/careers/diversity) |
 | [Nintendo](https://www.nintendo.com) | [Link](https://careers.nintendo.com/) | [Link](https://careers.nintendo.com/job-openings) | [Link](https://careers.nintendo.com/diversity-equity-and-inclusion/) |
+| [Petsmart](https://www.petsmart.com/) | [Link](https://careers.petsmart.com/) | [Link](https://careers.petsmart.com/jobs) | [Link](https://petsmartcorporate.com/our-associates/) |
 | [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | [Link](https://samsara.com/company/belonging) |
 | [The Museum of Flight (Seattle)](https://www.museumofflight.org) | [Link](https://www.museumofflight.org/about/careers/) | [Link](https://recruiting2.ultipro.com/mus1007mmf/JobBoard/8cd093ad-daf1-47a2-bbd1-305c466377b6/?q=&o=postedDateDesc) | [Link](https://www.museumofflight.org/about/diversity-and-inclusion) |
 | [Tomy](https://tomy.com) | [Link](https://us.tomy.com/careers/) | [Link](https://us.tomy.com/careers/) | [Link](https://us.tomy.com/dei/) |
