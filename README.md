@@ -28,6 +28,7 @@ And PR's/feedback encouraged! :)
 | Company | Careers landing page | Jobs listings link | Resource/Info |
 |---|---|---|---|
 | [ADP](https://www.adp.com/) | [Link](https://jobs.adp.com) | [Link](https://jobs.adp.com/en/jobs) | [Link](https://jobs.adp.com/en/life-adp/inclusion-and-diversity/) |
+| [American Electric Power](https://www.aep.com) | [Link](https://www.aep.com/careers/) | [Link](https://www.aep.com/careers/positions/) | [Link](https://www.aep.com/careers/inclusion/) |
 | [Apple](https://apple.com) | [Link](https://www.apple.com/careers) | [Link](https://jobs.apple.com/en-us/search) | [Link](https://www.apple.com/diversity/) |
 | [Atlassian](https://www.atlassian.com/) | [Link](https://www.atlassian.com/company/careers) | [Link](https://www.atlassian.com/company/careers/all-jobs) | [Link](https://www.atlassian.com/company/careers/diversity) |
 | [Ben &amp; Jerry's](https://www.benjerry.com/) | [Link](https://www.benjerry.com/about-us/jobs) | [Link](https://nasupplychainunilever.dejobs.org/jobs/?q=Ben+%26+Jerry%27s) | [Link](https://www.benjerry.com/whats-new/2024/06/diversity-equity-inclusion) |
@@ -39,6 +40,7 @@ And PR's/feedback encouraged! :)
 | [Deepwatch](https://www.deepwatch.com) | [Link](https://www.deepwatch.com/careers/) | [Link](https://www.deepwatch.com/jobs/) | [Link](https://www.deepwatch.com/diversity-equity-and-inclusion/) |
 | [e.l.f. Beauty](https://www.elfbeauty.com/) | [Link](https://www.elfbeauty.com/work-with-us) | [Link](https://www.elfbeauty.com/work-with-us#careers-feed) | [Link](https://www.elfbeauty.com/changing-the-board-game) |
 | [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | [Link](https://www.ebayinc.com/company/diversity-inclusion-belonging/) |
+| [Edgewell Personal Care](https://edgewell.com/) | [Link](https://edgewell.com/pages/careers) | [Link](https://careers.edgewell.com/) | [Link](https://edgewell.com/pages/inclusion-and-belonging) |
 | [Equifax](https://www.equifax.com/) | [Link](https://www.equifax.com/about-equifax/culture-careers/) | [Link](https://careers.equifax.com/en/jobs) | [Link](https://www.equifax.com/about-equifax/culture-careers/inclusion-diversity/) |
 | [Ericsson](https://www.ericsson.com) | [Link](https://www.ericsson.com/en/careers) | [Link](https://jobs.ericsson.com/careers) | [Link](https://www.ericsson.com/en/about-us/diversity-and-inclusion) |
 | [Experian](https://www.experian.com/) | [Link](https://www.experian.com/careers/) | [Link](https://jobs.experian.com/jobs) | [Link](https://www.experian.com/diversity/index) |
