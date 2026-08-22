@@ -19,7 +19,7 @@ Each row below contains links to the following:
 * the current listing of open positions/jobs with the company
 * the company's page about their diversity, equity, and inclusion related programs (or other similar resource)
 
-And PR's/feedback encouraged! :)
+And PRs/feedback encouraged! :)
 
 ---
 
@@ -45,6 +45,7 @@ And PR's/feedback encouraged! :)
 | [Ericsson](https://www.ericsson.com) | [Link](https://www.ericsson.com/en/careers) | [Link](https://jobs.ericsson.com/careers) | [Link](https://www.ericsson.com/en/about-us/diversity-and-inclusion) |
 | [Experian](https://www.experian.com/) | [Link](https://www.experian.com/careers/) | [Link](https://jobs.experian.com/jobs) | [Link](https://www.experian.com/diversity/index) |
 | [EY](https://www.ey.com/) | [Link](https://www.ey.com/en_us/careers) | [Link](https://careers.ey.com/search) | [Link](https://www.ey.com/en_us/careers/diversity-inclusiveness) |
+| [Humana](https://www.humana.com/) | [Link](https://careers.humana.com/us/en) | [Link](https://careers.humana.com/us/en/search-results) | [Link](https://careers.humana.com/us/en/inclusion-engagement) |
 | [Lego](https://www.lego.com/) | [Link](https://www.lego.com/en-us/careers) | [Link](https://www.lego.com/en-us/careers/search) | [Link](https://www.lego.com/en-us/sustainability/diversity-and-inclusion) |
 | [Levi Strauss &amp; Co](https://www.levi.com) | [Link](https://www.levistrauss.com/work-with-us/) | [Link](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External) | [Link](https://www.levi.com/US/en_US/features/our-values) |
 | [Marriott](https://www.marriott.com/) | [Link](https://careers.marriott.com/) | [Link](https://careers.marriott.com/jobs) | [Link](https://fortune.com/article/marriott-ceo-best-companies-work-for-interview/) |
@@ -56,6 +57,7 @@ And PR's/feedback encouraged! :)
 | [NFL](https://www.nfl.com) | [Link](https://www.nfl.com/careers/) | [Link](https://job-boards.greenhouse.io/nflcareers) | [Link](https://www.nfl.com/careers/diversity) |
 | [Nintendo](https://www.nintendo.com) | [Link](https://careers.nintendo.com/) | [Link](https://careers.nintendo.com/job-openings) | [Link](https://careers.nintendo.com/diversity-equity-and-inclusion/) |
 | [Petsmart](https://www.petsmart.com/) | [Link](https://careers.petsmart.com/) | [Link](https://careers.petsmart.com/jobs) | [Link](https://petsmartcorporate.com/our-associates/) |
+| [Progressive](https://www.progressive.com) | [Link](https://careers.progressive.com/) | [Link](https://careers.progressive.com/search/jobs/) | [Link](https://careers.progressive.com/pages/difference-diversity-inclusion-programs/) |
 | [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | [Link](https://samsara.com/company/belonging) |
 | [Tenable](https://www.tenable.com/) | [Link](https://www.tenable.com/careers) | [Link](https://www.tenable.com/careers/search) | [Link](https://www.tenable.com/about-tenable/engagement-and-inclusion) |
 | [The Museum of Flight (Seattle)](https://www.museumofflight.org) | [Link](https://www.museumofflight.org/about/careers/) | [Link](https://recruiting2.ultipro.com/mus1007mmf/JobBoard/8cd093ad-daf1-47a2-bbd1-305c466377b6/?q=&o=postedDateDesc) | [Link](https://www.museumofflight.org/about/diversity-and-inclusion) |
